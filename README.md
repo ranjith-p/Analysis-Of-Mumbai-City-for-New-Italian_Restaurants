@@ -10,7 +10,7 @@ influence. The city is the 9th most populous in the world. It has approximately 
 people. Along with the neighboring cities of Navi Mumbai and Thane, it forms the world's
 4th largest urban agglomeration.
 
-## 1. Business Problem
+## 2. Business Problem
 
 As you can see from the figures, Mumbai is a city with a high population, In this project we
 will try to find an optimal location for a restaurant. Specifically, this report will be targeted
