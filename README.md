@@ -44,5 +44,9 @@ Python **folium** module was used to visualize the results on the map of Mumbai 
 Visualizing all the collected restaurants in the area in blue color and Italian restaurants in red.
 ![alt text](https://github.com/ranjith-p/testing03/blob/master/2.JPG?raw=true)
 
-### To view the Methodology and the results of this analysis go to this [article](https://www.linkedin.com/pulse/analysis-mumbai-city-estimate-some-optimal-locations-new-panicker/?published=t).
+Heatmap showing **density of restaurants**, also a few circles indicating distance of 1km, 2km and 3km from Mumbai Center.
+![alt text](https://github.com/ranjith-p/testing03/blob/master/3.JPG?raw=true)
+
+
+### To view the full Methodology and the results of this analysis go to this [article](https://www.linkedin.com/pulse/analysis-mumbai-city-estimate-some-optimal-locations-new-panicker/?published=t).
 
