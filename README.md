@@ -21,4 +21,28 @@ restaurants in vicinity. We would also prefer locations as close to city.
 
 We will generate a few most promising neighborhoods based on this criteria.
 
-### To view the Jupyter Notebook with visuals click on this [link](https://nbviewer.jupyter.org/github/ranjith-p/Italian_Restaurants/blob/main/Italian_Restaurants_Analysis_Mumbai.ipynb).
+
+## 3. Data
+Following data sources will be needed to extract/generate the required information:
+
+* Centers of candidate areas will be generated algorithmically and approximate addresses of centers of those areas will be obtained using Geopy reverse geocoding.
+* Number of restaurants and their type and location in every neighborhood will be obtained using Foursquare API.
+* Coordinate of Mumbai center will be obtained using Geopy reverse geocoding.
+
+Based on definition of our problem, factors that will influence our decision are:
+
+* Number of existing restaurants in the neighborhood (any type of restaurant)
+* Number of Italian restaurants and distance to Italian restaurants in the neighborhood and distance of neighborhood from city center
+* We decided to use regularly spaced grid of locations, centered around city center, to define our neighborhoods.
+
+## 4. Methodology
+
+Python **folium** module was used to visualize the results on the map of Mumbai City.
+![alt text](https://github.com/ranjith-p/testing03/blob/master/1.JPG?raw=true)
+
+
+Visualizing all the collected restaurants in the area in blue color and Italian restaurants in red.
+![alt text](https://github.com/ranjith-p/testing03/blob/master/2.JPG?raw=true)
+
+### To view the Methodology and the results of this analysis go to this [article](https://www.linkedin.com/pulse/analysis-mumbai-city-estimate-some-optimal-locations-new-panicker/?published=t).
+
