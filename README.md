@@ -45,6 +45,7 @@ Visualizing all the collected restaurants in the area in blue color and Italian 
 ![alt text](https://github.com/ranjith-p/testing03/blob/master/2.JPG?raw=true)
 
 Heatmap showing **density of restaurants**, also a few circles indicating distance of 1km, 2km and 3km from Mumbai Center.
+
 ![alt text](https://github.com/ranjith-p/testing03/blob/master/3.JPG?raw=true)
 
 
