@@ -50,4 +50,3 @@ Heatmap showing **density of restaurants**, also a few circles indicating distan
 
 
 ### To view the full Methodology and the results of this analysis go to this [article](https://www.linkedin.com/pulse/analysis-mumbai-city-estimate-some-optimal-locations-new-panicker/?published=t).
-
