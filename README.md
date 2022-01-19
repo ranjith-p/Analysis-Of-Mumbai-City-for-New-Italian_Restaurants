@@ -21,7 +21,6 @@ restaurants in vicinity. We would also prefer locations as close to city.
 
 We will generate a few most promising neighborhoods based on this criteria.
 
-
 ## 3. Data
 Following data sources will be needed to extract/generate the required information:
 
