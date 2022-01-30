@@ -1,6 +1,5 @@
 # Analysis Of Mumbai City To Estimate Some Optimal Locations for A New Italian Restaurant
 
-
 ## 1. Background
 
 Mumbai (previously known as Bombay until 1996) is a natural harbor on the west coast of
