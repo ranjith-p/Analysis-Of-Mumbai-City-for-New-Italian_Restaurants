@@ -2,7 +2,6 @@
 
 
 
-
 ## 1. Background
 
 Mumbai (previously known as Bombay until 1996) is a natural harbor on the west coast of
